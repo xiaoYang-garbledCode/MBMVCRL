@@ -1,0 +1,27 @@
+=============================================
+Dataset: HAR
+Method:  TS-TCC
+Mode:    train_linear
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 1.6575	 | 	Train Accuracy     : 0.1797
+Valid Loss     : nan	 | 	Valid Accuracy     : nan
+
+Epoch : 2
+Train Loss     : 0.8199	 | 	Train Accuracy     : 0.5859
+Valid Loss     : nan	 | 	Valid Accuracy     : nan
+
+Epoch : 3
+Train Loss     : 0.5746	 | 	Train Accuracy     : 0.7422
+Valid Loss     : nan	 | 	Valid Accuracy     : nan
+
+Epoch : 4
+Train Loss     : 0.5074	 | 	Train Accuracy     : 0.8203
+Valid Loss     : nan	 | 	Valid Accuracy     : nan
+
+Epoch : 5
+Train Loss     : 0.4104	 | 	Train Accuracy     : 0.8750
+Valid Loss     : nan	 | 	Valid Accuracy     : nan

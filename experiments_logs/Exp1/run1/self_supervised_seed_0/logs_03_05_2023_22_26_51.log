@@ -1,0 +1,11 @@
+=============================================
+Dataset: HAR
+Method:  TS-TCC
+Mode:    self_supervised
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 18.5375	 | 	Train Accuracy     : 0.0000
+

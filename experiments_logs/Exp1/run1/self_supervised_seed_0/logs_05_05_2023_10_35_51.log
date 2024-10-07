@@ -1,0 +1,170 @@
+=============================================
+Dataset: HAR
+Method:  TS-TCC
+Mode:    self_supervised
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 27.2457	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 2
+Train Loss     : 25.5407	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 3
+Train Loss     : 24.9666	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 4
+Train Loss     : 24.6180	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 5
+Train Loss     : 24.3355	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 6
+Train Loss     : 24.2534	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 7
+Train Loss     : 24.0404	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 8
+Train Loss     : 23.9717	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 9
+Train Loss     : 23.9290	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 10
+Train Loss     : 23.7656	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 11
+Train Loss     : 23.7699	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 12
+Train Loss     : 23.6678	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 13
+Train Loss     : 23.6453	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 14
+Train Loss     : 23.6339	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 15
+Train Loss     : 23.5391	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 16
+Train Loss     : 23.5193	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 17
+Train Loss     : 23.4454	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 18
+Train Loss     : 23.4432	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 19
+Train Loss     : 23.4162	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 20
+Train Loss     : 23.3993	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 21
+Train Loss     : 23.3705	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 22
+Train Loss     : 23.3248	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 23
+Train Loss     : 23.2231	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 24
+Train Loss     : 23.2323	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 25
+Train Loss     : 23.2219	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 26
+Train Loss     : 23.1510	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 27
+Train Loss     : 23.0975	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 28
+Train Loss     : 23.1412	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 29
+Train Loss     : 22.9980	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 30
+Train Loss     : 23.1435	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 31
+Train Loss     : 23.0258	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 32
+Train Loss     : 23.0297	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 33
+Train Loss     : 23.0174	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 34
+Train Loss     : 22.9498	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 35
+Train Loss     : 22.9214	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 36
+Train Loss     : 22.8813	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 37
+Train Loss     : 22.8943	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 38
+Train Loss     : 22.8930	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 39
+Train Loss     : 22.8002	 | 	Train Accuracy     : 0.0000
+
+
+Epoch : 40
+Train Loss     : 22.6976	 | 	Train Accuracy     : 0.0000
+
+
+################## Training is Done! #########################
+Training time is : 0:13:45.290714

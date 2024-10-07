@@ -1,0 +1,17 @@
+=============================================
+Dataset: sleepEDF
+Method:  TS-TCC
+Mode:    train_linear
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 0.5777	 | 	Train Accuracy     : 0.7912
+Valid Loss     : 0.6518	 | 	Valid Accuracy     : 0.7387
+
+Evaluate on the Test set:
+Test loss      :0.4482	 | Test Accuracy      : 0.8287
+
+################## Training is Done! #########################
+Training time is : 0:01:47.666103

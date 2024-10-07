@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Epilepsy_svm_result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/HAR_svm_result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/models/model.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/output/2a_svm_result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/output/HAR_svm_result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/output/epilepsy_svm_result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/output/sleep_svm_result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/pDF_acc/_svm_result.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/sleepEDF_svm_result.txt" charset="GBK" />
+  </component>
+</project>

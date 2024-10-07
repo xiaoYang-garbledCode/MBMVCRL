@@ -1,0 +1,10 @@
+=============================================
+Dataset: Epilepsy
+Method:  TS-TCC
+Mode:    self_supervised
+=============================================
+Data loaded ...
+Training started ....
+
+################## Training is Done! #########################
+Training time is : 0:00:05.758447

@@ -1,0 +1,17 @@
+=============================================
+Dataset: HAR
+Method:  TS-TCC
+Mode:    train_linear
+=============================================
+Data loaded ...
+Training started ....
+
+Epoch : 1
+Train Loss     : 0.7000	 | 	Train Accuracy     : 0.7526
+Valid Loss     : 0.4242	 | 	Valid Accuracy     : 0.8168
+
+Evaluate on the Test set:
+Test loss      :0.5421	 | Test Accuracy      : 0.7321
+
+################## Training is Done! #########################
+Training time is : 0:00:07.966177
